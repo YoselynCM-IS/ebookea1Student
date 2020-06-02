@@ -5,14 +5,14 @@
         <dc:title id="title">English Aware</dc:title>
 
         <dc:identifier id="pub-id">urn:uuid:9aa1faa3-fa01-865f-5d69-5f012e12737b</dc:identifier>
-        <meta name="cover" content="img4" />
+        <meta name="cover" content="img2" />
 
         <dc:creator>Rosa Yldanah Flores Ramírez</dc:creator>
         <dc:publisher>Claudia Elizabeth García Becerril</dc:publisher>
         <dc:rights>Majestic Education, S.A. de C.V.</dc:rights>
         <dc:language>en</dc:language>
         <dc:description>No description available</dc:description>
-        <meta property="dcterms:modified">2020-05-22T12:28:58Z</meta>
+        <meta property="dcterms:modified">2020-06-02T11:24:03Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="rendition:orientation">auto</meta>
         <meta property="ibooks:interactive">true</meta>
@@ -22,149 +22,134 @@
 
     </metadata>
     <manifest>
-        <item id="html0" href="xhtml/pdfw76xa/page1/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html1" href="xhtml/pdfw76xa/page2/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html2" href="xhtml/pdfw76xa/page3/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html3" href="xhtml/pdfw76xa/page4/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html4" href="xhtml/pdfw76xa/page5/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html5" href="xhtml/pdfw76xa/page6/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html6" href="xhtml/pdfw76xa/page7/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html7" href="xhtml/htmlnva8x/svxfcr.xhtml" media-type="application/xhtml+xml"/>
-<item id="html8" href="xhtml/pdfkne4s/page1/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html9" href="xhtml/pdfdfyka/page2/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html10" href="xhtml/pdfdfyka/page3/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html11" href="xhtml/pdfdfyka/page4/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html12" href="xhtml/pdfdfyka/page5/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html13" href="xhtml/pdfdfyka/page6/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html14" href="xhtml/pdfdfyka/page7/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html15" href="xhtml/pdfdfyka/page8/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html16" href="xhtml/pdfdfyka/page9/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html17" href="xhtml/pdfdfyka/page10/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html18" href="xhtml/pdfdfyka/page11/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html19" href="xhtml/pdfdfyka/page12/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html20" href="xhtml/pdfdfyka/page13/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html21" href="xhtml/pdfdfyka/page14/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html22" href="xhtml/pdfdfyka/page15/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html23" href="xhtml/pdfdfyka/page16/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html24" href="xhtml/pdfdfyka/page17/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html25" href="xhtml/pdfdfyka/page18/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html26" href="xhtml/pdfw76xa/page9/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html27" href="xhtml/pdf423oh/page19/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html28" href="xhtml/pdf423oh/page20/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html29" href="xhtml/pdfogdiz/page1/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html30" href="xhtml/pdfogdiz/page2/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html31" href="xhtml/pdfogdiz/page3/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html32" href="xhtml/pdfogdiz/page4/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html33" href="xhtml/pdfulcc2/page1/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html34" href="xhtml/pdfogdiz/page5/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html35" href="xhtml/pdfogdiz/page6/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html36" href="xhtml/pdfogdiz/page7/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html37" href="xhtml/pdfogdiz/page8/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html38" href="xhtml/pdf28ds8/page1/page.xhtml" media-type="application/xhtml+xml"/>
+        <item id="html0" href="xhtml/pdfldcgz/page1/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/pdfsyxhu/page2/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/pdfsyxhu/page3/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/pdfsyxhu/page4/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/pdfsyxhu/page5/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/pdfsyxhu/page6/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/pdfsyxhu/page7/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/pdfsyxhu/page8/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/pdfsyxhu/page9/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/pdfsyxhu/page10/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/pdfsyxhu/page11/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/pdfsyxhu/page12/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/pdfsyxhu/page13/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/pdfsyxhu/page14/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/pdfsyxhu/page15/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html15" href="xhtml/pdfsyxhu/page16/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html16" href="xhtml/pdfsyxhu/page17/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html17" href="xhtml/pdfsyxhu/page18/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html18" href="xhtml/pdfsyxhu/page19/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html19" href="xhtml/pdfsyxhu/page20/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html20" href="xhtml/pdfsyxhu/page21/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html21" href="xhtml/pdfsyxhu/page22/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html22" href="xhtml/pdfsyxhu/page23/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html23" href="xhtml/pdfsyxhu/page24/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html24" href="xhtml/pdfsyxhu/page25/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html25" href="xhtml/pdfsyxhu/page26/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html26" href="xhtml/pdfsyxhu/page81/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html27" href="xhtml/pdfsyxhu/page82/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html28" href="xhtml/pdfsyxhu/page83/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html29" href="xhtml/pdfsyxhu/page84/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html30" href="xhtml/pdfsyxhu/page85/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html31" href="xhtml/pdfsyxhu/page86/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html32" href="xhtml/pdfsyxhu/page87/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html33" href="xhtml/pdfsyxhu/page99/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html34" href="xhtml/pdfsyxhu/page106/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html35" href="xhtml/pdfsyxhu/page107/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html36" href="xhtml/pdfsyxhu/page108/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html37" href="xhtml/pdfsyxhu/page109/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html38" href="xhtml/pdfsyxhu/page122/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html39" href="xhtml/pdfkjl2a/page1/page.xhtml" media-type="application/xhtml+xml"/>
 <item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
 <item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
-<item id="img0" href="imgs/answer202.png" media-type="image/png"/>
-<item id="img1" href="imgs/answer27.png" media-type="image/png"/>
-<item id="img2" href="imgs/banner.jpg" media-type="image/jpeg"/>
-<item id="img3" href="imgs/online-student-reg05.png" media-type="image/png"/>
-<item id="img4" href="imgs/usersleonardogonza01.png" properties="cover-image" media-type="image/png"/>
-<item id="img5" href="xhtml/pdf28ds8/page1/page.png" media-type="image/png"/>
-<item id="img6" href="xhtml/pdf423oh/page19/page.png" media-type="image/png"/>
-<item id="img7" href="xhtml/pdf423oh/page20/page.png" media-type="image/png"/>
-<item id="img8" href="xhtml/pdfdfyka/page10/page.png" media-type="image/png"/>
-<item id="img9" href="xhtml/pdfdfyka/page11/page.png" media-type="image/png"/>
-<item id="img10" href="xhtml/pdfdfyka/page12/page.png" media-type="image/png"/>
-<item id="img11" href="xhtml/pdfdfyka/page13/page.png" media-type="image/png"/>
-<item id="img12" href="xhtml/pdfdfyka/page14/page.png" media-type="image/png"/>
-<item id="img13" href="xhtml/pdfdfyka/page15/page.png" media-type="image/png"/>
-<item id="img14" href="xhtml/pdfdfyka/page16/page.png" media-type="image/png"/>
-<item id="img15" href="xhtml/pdfdfyka/page17/page.png" media-type="image/png"/>
-<item id="img16" href="xhtml/pdfdfyka/page18/page.png" media-type="image/png"/>
-<item id="img17" href="xhtml/pdfdfyka/page2/page.png" media-type="image/png"/>
-<item id="img18" href="xhtml/pdfdfyka/page3/page.png" media-type="image/png"/>
-<item id="img19" href="xhtml/pdfdfyka/page4/page.png" media-type="image/png"/>
-<item id="img20" href="xhtml/pdfdfyka/page5/page.png" media-type="image/png"/>
-<item id="img21" href="xhtml/pdfdfyka/page6/page.png" media-type="image/png"/>
-<item id="img22" href="xhtml/pdfdfyka/page7/page.png" media-type="image/png"/>
-<item id="img23" href="xhtml/pdfdfyka/page8/page.png" media-type="image/png"/>
-<item id="img24" href="xhtml/pdfdfyka/page9/page.png" media-type="image/png"/>
-<item id="img25" href="xhtml/pdfkne4s/page1/page.png" media-type="image/png"/>
-<item id="img26" href="xhtml/pdfogdiz/page1/page.png" media-type="image/png"/>
-<item id="img27" href="xhtml/pdfogdiz/page2/page.png" media-type="image/png"/>
-<item id="img28" href="xhtml/pdfogdiz/page3/page.png" media-type="image/png"/>
-<item id="img29" href="xhtml/pdfogdiz/page4/page.png" media-type="image/png"/>
-<item id="img30" href="xhtml/pdfogdiz/page5/page.png" media-type="image/png"/>
-<item id="img31" href="xhtml/pdfogdiz/page6/page.png" media-type="image/png"/>
-<item id="img32" href="xhtml/pdfogdiz/page7/page.png" media-type="image/png"/>
-<item id="img33" href="xhtml/pdfogdiz/page8/page.png" media-type="image/png"/>
-<item id="img34" href="xhtml/pdfulcc2/page1/page.png" media-type="image/png"/>
-<item id="img35" href="xhtml/pdfw76xa/page1/page.png" media-type="image/png"/>
-<item id="img36" href="xhtml/pdfw76xa/page2/page.png" media-type="image/png"/>
-<item id="img37" href="xhtml/pdfw76xa/page3/page.png" media-type="image/png"/>
-<item id="img38" href="xhtml/pdfw76xa/page4/page.png" media-type="image/png"/>
-<item id="img39" href="xhtml/pdfw76xa/page5/page.png" media-type="image/png"/>
-<item id="img40" href="xhtml/pdfw76xa/page6/page.png" media-type="image/png"/>
-<item id="img41" href="xhtml/pdfw76xa/page7/page.png" media-type="image/png"/>
-<item id="img42" href="xhtml/pdfw76xa/page9/page.png" media-type="image/png"/>
-<item id="aud0" href="audio/track01_03.mp3" media-type="audio/mpeg"/>
-<item id="aud1" href="audio/track02_05.mp3" media-type="audio/mpeg"/>
-<item id="aud2" href="audio/track03_03.mp3" media-type="audio/mpeg"/>
-<item id="aud3" href="audio/track04_03.mp3" media-type="audio/mpeg"/>
-<item id="aud4" href="audio/track05_03.mp3" media-type="audio/mpeg"/>
-<item id="aud5" href="audio/track06_03.mp3" media-type="audio/mpeg"/>
-<item id="aud6" href="audio/track07_03.mp3" media-type="audio/mpeg"/>
-<item id="aud7" href="audio/track08_03.mp3" media-type="audio/mpeg"/>
-<item id="aud8" href="audio/track09_03.mp3" media-type="audio/mpeg"/>
-<item id="aud9" href="audio/track10_03.mp3" media-type="audio/mpeg"/>
-<item id="aud10" href="audio/track11_03.mp3" media-type="audio/mpeg"/>
-<item id="aud11" href="audio/track12_02.mp3" media-type="audio/mpeg"/>
-<item id="aud12" href="audio/track13_02.mp3" media-type="audio/mpeg"/>
-<item id="aud13" href="audio/track14_03.mp3" media-type="audio/mpeg"/>
-<item id="aud14" href="audio/track15_03.mp3" media-type="audio/mpeg"/>
-<item id="aud15" href="audio/track16_02.mp3" media-type="audio/mpeg"/>
-<item id="aud16" href="audio/track65_01.mp3" media-type="audio/mpeg"/>
+<item id="img0" href="imgs/answershadow.png" media-type="image/png"/>
+<item id="img1" href="imgs/online-student-reg09.png" media-type="image/png"/>
+<item id="img2" href="imgs/usersleonardogonza02.png" properties="cover-image" media-type="image/png"/>
+<item id="img3" href="xhtml/pdfkjl2a/page1/page.png" media-type="image/png"/>
+<item id="img4" href="xhtml/pdfldcgz/page1/page.png" media-type="image/png"/>
+<item id="img5" href="xhtml/pdfsyxhu/page10/page.png" media-type="image/png"/>
+<item id="img6" href="xhtml/pdfsyxhu/page106/page.png" media-type="image/png"/>
+<item id="img7" href="xhtml/pdfsyxhu/page107/page.png" media-type="image/png"/>
+<item id="img8" href="xhtml/pdfsyxhu/page108/page.png" media-type="image/png"/>
+<item id="img9" href="xhtml/pdfsyxhu/page109/page.png" media-type="image/png"/>
+<item id="img10" href="xhtml/pdfsyxhu/page11/page.png" media-type="image/png"/>
+<item id="img11" href="xhtml/pdfsyxhu/page12/page.png" media-type="image/png"/>
+<item id="img12" href="xhtml/pdfsyxhu/page122/page.png" media-type="image/png"/>
+<item id="img13" href="xhtml/pdfsyxhu/page13/page.png" media-type="image/png"/>
+<item id="img14" href="xhtml/pdfsyxhu/page14/page.png" media-type="image/png"/>
+<item id="img15" href="xhtml/pdfsyxhu/page15/page.png" media-type="image/png"/>
+<item id="img16" href="xhtml/pdfsyxhu/page16/page.png" media-type="image/png"/>
+<item id="img17" href="xhtml/pdfsyxhu/page17/page.png" media-type="image/png"/>
+<item id="img18" href="xhtml/pdfsyxhu/page18/page.png" media-type="image/png"/>
+<item id="img19" href="xhtml/pdfsyxhu/page19/page.png" media-type="image/png"/>
+<item id="img20" href="xhtml/pdfsyxhu/page2/page.png" media-type="image/png"/>
+<item id="img21" href="xhtml/pdfsyxhu/page20/page.png" media-type="image/png"/>
+<item id="img22" href="xhtml/pdfsyxhu/page21/page.png" media-type="image/png"/>
+<item id="img23" href="xhtml/pdfsyxhu/page22/page.png" media-type="image/png"/>
+<item id="img24" href="xhtml/pdfsyxhu/page23/page.png" media-type="image/png"/>
+<item id="img25" href="xhtml/pdfsyxhu/page24/page.png" media-type="image/png"/>
+<item id="img26" href="xhtml/pdfsyxhu/page25/page.png" media-type="image/png"/>
+<item id="img27" href="xhtml/pdfsyxhu/page26/page.png" media-type="image/png"/>
+<item id="img28" href="xhtml/pdfsyxhu/page3/page.png" media-type="image/png"/>
+<item id="img29" href="xhtml/pdfsyxhu/page4/page.png" media-type="image/png"/>
+<item id="img30" href="xhtml/pdfsyxhu/page5/page.png" media-type="image/png"/>
+<item id="img31" href="xhtml/pdfsyxhu/page6/page.png" media-type="image/png"/>
+<item id="img32" href="xhtml/pdfsyxhu/page7/page.png" media-type="image/png"/>
+<item id="img33" href="xhtml/pdfsyxhu/page8/page.png" media-type="image/png"/>
+<item id="img34" href="xhtml/pdfsyxhu/page81/page.png" media-type="image/png"/>
+<item id="img35" href="xhtml/pdfsyxhu/page82/page.png" media-type="image/png"/>
+<item id="img36" href="xhtml/pdfsyxhu/page83/page.png" media-type="image/png"/>
+<item id="img37" href="xhtml/pdfsyxhu/page84/page.png" media-type="image/png"/>
+<item id="img38" href="xhtml/pdfsyxhu/page85/page.png" media-type="image/png"/>
+<item id="img39" href="xhtml/pdfsyxhu/page86/page.png" media-type="image/png"/>
+<item id="img40" href="xhtml/pdfsyxhu/page87/page.png" media-type="image/png"/>
+<item id="img41" href="xhtml/pdfsyxhu/page9/page.png" media-type="image/png"/>
+<item id="img42" href="xhtml/pdfsyxhu/page99/page.png" media-type="image/png"/>
 
     </manifest>
     <spine toc="ncx">
         <itemref idref="html0" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html1" properties="rendition:layout-reflowable"/>
-<itemref idref="html2" properties="rendition:layout-reflowable"/>
-<itemref idref="html3" properties="rendition:layout-reflowable"/>
-<itemref idref="html4" properties="rendition:layout-reflowable"/>
-<itemref idref="html5" properties="rendition:layout-reflowable"/>
-<itemref idref="html6" properties="rendition:layout-reflowable"/>
-<itemref idref="html7" properties="rendition:layout-reflowable"/>
-<itemref idref="html8" properties="rendition:layout-reflowable"/>
-<itemref idref="html9" properties="rendition:layout-reflowable"/>
-<itemref idref="html10" properties="rendition:layout-reflowable"/>
-<itemref idref="html11" properties="rendition:layout-reflowable"/>
-<itemref idref="html12" properties="rendition:layout-reflowable"/>
-<itemref idref="html13" properties="rendition:layout-reflowable"/>
-<itemref idref="html14" properties="rendition:layout-reflowable"/>
-<itemref idref="html15" properties="rendition:layout-reflowable"/>
-<itemref idref="html16" properties="rendition:layout-reflowable"/>
-<itemref idref="html17" properties="rendition:layout-reflowable"/>
-<itemref idref="html18" properties="rendition:layout-reflowable"/>
-<itemref idref="html19" properties="rendition:layout-reflowable"/>
-<itemref idref="html20" properties="rendition:layout-reflowable"/>
-<itemref idref="html21" properties="rendition:layout-reflowable"/>
-<itemref idref="html22" properties="rendition:layout-reflowable"/>
-<itemref idref="html23" properties="rendition:layout-reflowable"/>
-<itemref idref="html24" properties="rendition:layout-reflowable"/>
-<itemref idref="html25" properties="rendition:layout-reflowable"/>
-<itemref idref="html26" properties="rendition:layout-reflowable"/>
-<itemref idref="html27" properties="rendition:layout-reflowable"/>
-<itemref idref="html28" properties="rendition:layout-reflowable"/>
-<itemref idref="html29" properties="rendition:layout-reflowable"/>
-<itemref idref="html30" properties="rendition:layout-reflowable"/>
-<itemref idref="html31" properties="rendition:layout-reflowable"/>
-<itemref idref="html32" properties="rendition:layout-reflowable"/>
-<itemref idref="html33" properties="rendition:layout-reflowable"/>
-<itemref idref="html34" properties="rendition:layout-reflowable"/>
-<itemref idref="html35" properties="rendition:layout-reflowable"/>
-<itemref idref="html36" properties="rendition:layout-reflowable"/>
-<itemref idref="html37" properties="rendition:layout-reflowable"/>
-<itemref idref="html38" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html2" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html6" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html7" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html8" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html9" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html10" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html11" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html12" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html13" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html14" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html15" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html16" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html17" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html18" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html19" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html20" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html21" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html22" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html23" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html24" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html25" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html26" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html27" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html28" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html29" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html30" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html31" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html32" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html33" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html34" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html35" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html36" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html37" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html38" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html39" properties="rendition:layout-pre-paginated"/>
 
     </spine>
 
